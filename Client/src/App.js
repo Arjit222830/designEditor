@@ -92,7 +92,7 @@ const App = (props) => {
     
       <Container>
         <Bar>
-          <h1>React Email Editor (Demo)</h1>
+          <h1>Email Editor</h1>
           <AlertCreate
             open={openCreate}
             handleClose= {handleCloseCreate}
